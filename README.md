@@ -2,7 +2,7 @@ BallGame
 
 Simple Ball Game created to practice programming in Java
 
-To Run: Must enter number of balls, then the type and size of each one
+To Run: java [number of balls] [type of ball] [size]
 
 Example: java 4 basic 0.3 split 0.5 bounce 0.1 shrink 0.4
 
